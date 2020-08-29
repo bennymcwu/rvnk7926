@@ -4,14 +4,14 @@
 
 
 ## :dart: Overview
-Currently working at <b>KUKA Taiwan</b> as <u>application engineer</u>, mainly focusing mobile robot (KMR) application software deverlopment with headquarter AGV solution department. Also, parallelly in charge of technical support team leader in Taiwan for mobile robot (KMR). Had an experience for leading 15 engineers to install and commssioning mobile robot (KMR) in world leading semiconductor manufacturing company.
+Currently working for <b>KUKA Taiwan</b> as an <u>application engineer</u>, mainly focusing on KUKA Mobile Robot (KMR) application software deverlopment. I am the key technical contact representing KUKA Taiwan with KUKA Germany, Augsburg, AGV solution department. Meanwhile, I am also the technical support lead for KMR solution in Taiwan in charge of software maintnance and improvement. For management, I have led a team of 15 engineers for KMR commissioning and installation in cleanroom environment for a world leading semiconductor manufacturing company.
 
-Previously was R&D engineer in a startup company for developing mecanum wheel AGV from scratch; which I was exposed to kinematics, SLAM, and path planning algorithm development. Also had a project experience in Google for constructing data center during student period.
+Previously I was an R&D engineer in a startup company for ground-up mecanum wheel AGV development; which I was exposed to kinematics, SLAM, and path planning algorithm development. In Masters, I had project experience with Google for constructing data center.
 
 
 
 ## :man: Personality
-    An resourceful eager learner with goal oriented and performance driven
+    Resourceful eager learner with a goal oriented and performance driven working attitude
 
 
 
